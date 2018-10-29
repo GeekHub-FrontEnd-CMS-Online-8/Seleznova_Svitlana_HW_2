@@ -1,0 +1,35 @@
+body {
+    width: 33%;
+    margin: auto;
+}
+
+h1, .text1, .text2, .centersymbols {
+    text-align:  center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 20pt;
+}
+
+.text1 {
+    font-size: 14pt;
+}
+
+.text2 {
+    font-size: 12pt;
+}
+
+p {
+    font-size: 11pt;
+}
+
+.leftimg {
+    float: left;
+    margin: 0 5px 0 0;
+    overflow: hidden;
+    height: 165px;
+}
+.rightsymbols {
+    text-align:  right;
+}
